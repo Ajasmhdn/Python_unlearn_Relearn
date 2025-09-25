@@ -1,11 +1,12 @@
-name="Shradha"
-age=22
-height=5.5
+age = 23          # int
+pi = 3.14         # float
+complex_num = 2 + 3j  # complex
+A = True          # bool
+name = "Ajaz"     # str
 
-print(name)
-print(age)
-print(height)
-
-print(type(name))
 print(type(age))
-print(type(height))
+print(type(pi))
+print(type(complex_num))
+print(type(A))
+print(type(name))
+
